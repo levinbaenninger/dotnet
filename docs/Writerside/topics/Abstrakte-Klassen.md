@@ -1,0 +1,2 @@
+# Abstrakte Klassen
+

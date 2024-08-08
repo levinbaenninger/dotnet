@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="net"
+                  name=".NET" start-page="Ueberblick.topic">
+
+    <toc-element topic="Ueberblick.topic"/>
+    <toc-element topic="Visual-Studio.md"/>
+    <toc-element topic="NET-CLI.md"/>
+    <toc-element topic="C#.md">
+        <toc-element toc-title="Grundlagen">
+            <toc-element topic="Programm-erstellen.md"/>
+            <toc-element topic="Struktur-eines-Programms.md"/>
+            <toc-element topic="Input-und-Output.md"/>
+        </toc-element>
+        <toc-element toc-title="Variablen und Datentypen">
+            <toc-element topic="Variablen.md">
+                <toc-element topic="Konstanten.md"/>
+            </toc-element>
+            <toc-element topic="Datentypen.md"/>
+            <toc-element topic="Casting-und-Parsing.md"/>
+        </toc-element>
+        <toc-element toc-title="Operatoren">
+            <toc-element origin="Writerside" topic="Arithmetische-Operatoren.md"/>
+            <toc-element origin="Writerside" topic="Relationale-Operatoren.md"/>
+            <toc-element origin="Writerside" topic="Logische-Operatoren.md"/>
+            <toc-element topic="Zuweisungsoperatoren.md" origin="Writerside"/>
+            <toc-element topic="Unary-Operatoren.md" origin="Writerside"/>
+            <toc-element origin="Writerside" topic="Operator-Vorrang.md"/>
+        </toc-element>
+        <toc-element toc-title="Kontrollstrukturen">
+            <toc-element topic="if-Statements.md"/>
+            <toc-element topic="Ternary-Operatoren.md"/>
+            <toc-element topic="switch-Statements.md"/>
+        </toc-element>
+        <toc-element toc-title="Collections">
+            <toc-element topic="Arrays.md"/>
+            <toc-element topic="Lists.md"/>
+            <toc-element topic="Dictionaries.md"/>
+        </toc-element>
+        <toc-element toc-title="Loops">
+            <toc-element topic="while-Loops.md"/>
+            <toc-element topic="for-Loops.md"/>
+            <toc-element topic="foreach-Loops.md"/>
+        </toc-element>
+        <toc-element toc-title="Methoden">
+            <toc-element topic="Simple-Methode.md"/>
+            <toc-element topic="Argumente.md"/>
+            <toc-element topic="Rückgabewerte.md"/>
+            <toc-element topic="Callbacks-und-Delegates.md"/>
+            <toc-element topic="Extension-Methoden.md"/>
+            <toc-element topic="LINQ.md"/>
+            <toc-element topic="Lazy.md"/>
+            <toc-element topic="Events.md"/>
+        </toc-element>
+        <toc-element topic="Debugging-und-Exceptions.md">
+            <toc-element topic="Try-Catch.md"/>
+        </toc-element>
+        <toc-element topic="Referenztypen-und-Wertetypen.md">
+            <toc-element topic="Records.md"/>
+            <toc-element topic="Das-Problem-mit-Gleichheit.md"/>
+            <toc-element topic="Structs.md"/>
+            <toc-element topic="Enums.md"/>
+        </toc-element>
+        <toc-element topic="Objektorientierte-Programmierung.md">
+            <toc-element topic="Referenztypen.md"/>
+            <toc-element topic="Fields-und-Properties.md"/>
+            <toc-element topic="Static-vs-Instances.md"/>
+            <toc-element topic="Constructors.md"/>
+            <toc-element topic="Vererbung.md"/>
+            <toc-element topic="Interfaces.md"/>
+            <toc-element topic="Abstrakte-Klassen.md"/>
+            <toc-element topic="Protected-und-Virtual.md"/>
+            <toc-element topic="Generics.md"/>
+            <toc-element topic="Tupel.md"/>
+        </toc-element>
+        <toc-element toc-title="Binär- und Stringdaten">
+            <toc-element topic="String-und-Bytes-verschlüsseln.md"/>
+            <toc-element topic="Streams.md"/>
+            <toc-element topic="Dateien.md"/>
+            <toc-element topic="Using-und-Disposable.md"/>
+            <toc-element topic="XML-und-JSON.md"/>
+        </toc-element>
+        <toc-element toc-title="Growing Codebases">
+            <toc-element topic="Multi-Projekt-Solutions.md"/>
+            <toc-element topic="Internal-Zugriffsmodifikator.md"/>
+            <toc-element topic="NuGet-Pakete.md"/>
+        </toc-element>
+        <toc-element toc-title="Asynchronous, Parallel und Multi-Threading">
+            <toc-element topic="Async-und-Concurrency-Patterns.md"/>
+            <toc-element topic="Threads.md"/>
+            <toc-element topic="Background-Workers.md"/>
+            <toc-element topic="Task-Objekte.md"/>
+            <toc-element topic="Async-Await.md"/>
+            <toc-element topic="Cancellation-Tokens.md"/>
+        </toc-element>
+        <toc-element topic="Refactoring.md"/>
+        <toc-element topic="Clean-Code.md"/>
+    </toc-element>
+    <toc-element topic="SOLID.md">
+        <toc-element topic="Single-Responsibility-Principle.md"/>
+        <toc-element topic="Open-Closed-Principle.md"/>
+        <toc-element topic="Liskov-Substitution-Principle.md"/>
+        <toc-element topic="Interface-Segregation-Principle.md"/>
+        <toc-element topic="Dependency-Inversion-Principle.md"/>
+        <toc-element topic="Andere-Grundsätze.md"/>
+    </toc-element>
+    <toc-element toc-title="APIs">
+        <toc-element topic="REST.md">
+            <toc-element topic="Web-API.md"/>
+            <toc-element topic="Minimal-API.md"/>
+        </toc-element>
+        <toc-element topic="GraphQL.md"/>
+        <toc-element topic="gRPC.md"/>
+    </toc-element>
+    <toc-element topic="Entity-Framework-Core.md"/>
+    <toc-element topic="Dependency-Injection.md"/>
+    <toc-element topic="Logging.md"/>
+    <toc-element topic="Messaging.md"/>
+    <toc-element topic="Telemetry.md"/>
+    <toc-element topic="Testing.md">
+        <toc-element topic="Unit-Testing.md"/>
+        <toc-element topic="Integration-Testing.md"/>
+        <toc-element topic="Test-Driven-Development.md"/>
+    </toc-element>
+    <toc-element topic="Architectures.md">
+        <toc-element topic="Solution-Architecture.md"/>
+        <toc-element topic="Clean-Architecture.md">
+            <toc-element toc-title="Grundlagen">
+                <toc-element topic="Projekt-erstellen.md"/>
+                <toc-element topic="HTTP-Requests.md"/>
+                <toc-element topic="DependencyInjection.md"/>
+            </toc-element>
+            <toc-element topic="Presentation-Layer.md">
+                <toc-element topic="Contracts.md"/>
+                <toc-element topic="Controller.md"/>
+            </toc-element>
+            <toc-element topic="Application-Layer.md">
+                <toc-element topic="CQRS.md"/>
+                <toc-element topic="Result-Pattern.md"/>
+                <toc-element topic="Repository-und-Unit-of-Work-Patterns.md"/>
+            </toc-element>
+            <toc-element topic="Infrastructure-Layer.md">
+                <toc-element topic="Implementierung-des-Repository-Pattern.md"/>
+                <toc-element topic="Implementierung-des-Unit-of-Work-Patterns.md"/>
+            </toc-element>
+            <toc-element topic="Domain-Layer.md">
+                <toc-element topic="Strongly-Typed-Enums-implementieren.md"/>
+                <toc-element topic="Domain-Models-implementieren.md"/>
+            </toc-element>
+        </toc-element>
+        <toc-element topic="Vertical-Slice-Architecture.md"/>
+        <toc-element topic="Microservices.md"/>
+        <toc-element topic="Modular-Monoliths.md"/>
+    </toc-element>
+    <toc-element toc-title="Design Patterns">
+        <toc-element topic="Domain-Driven-Design.md"/>
+        <toc-element topic="Singleton.md"/>
+    </toc-element>
+</instance-profile>

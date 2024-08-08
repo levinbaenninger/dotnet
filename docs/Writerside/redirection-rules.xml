@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules SYSTEM "https://resources.jetbrains.com/writerside/1.0/redirection-rules.dtd">
+<rules>
+    <!-- format is as follows
+    <rule id="<unique id>">
+        <accepts>page.html</accepts>
+    </rule>
+    -->
+    <rule id="4311db7d">
+        <description>Created after removal of "Web API" from .NET</description>
+        <accepts>Web-API.html</accepts>
+    </rule>
+    <rule id="483a82db">
+        <description>Created after removal of "Programmaufbau" from .NET</description>
+        <accepts>Programmaufbau.html</accepts>
+    </rule>
+    <rule id="25d17055">
+        <description>Created after removal of "Konstanten" from .NET</description>
+        <accepts>Konstanten.html</accepts>
+    </rule>
+    <rule id="138b07ed">
+        <description>Created after removal of "Primitive Datentypen" from .NET</description>
+        <accepts>Primitive-Datentypen.html</accepts>
+    </rule>
+    <rule id="7f57092e">
+        <description>Created after removal of "Variablen" from .NET</description>
+        <accepts>Variablen.html</accepts>
+    </rule>
+    <rule id="5553e3d0">
+        <description>Created after removal of "Arithmetische Operatoren" from .NET</description>
+        <accepts>Arithmetische-Operatoren.html</accepts>
+    </rule>
+    <rule id="472151c0">
+        <description>Created after removal of "Relationale Operatoren" from .NET</description>
+        <accepts>Relationale-Operatoren.html</accepts>
+    </rule>
+    <rule id="11ecc69e">
+        <description>Created after removal of "Logische Operatoren" from .NET</description>
+        <accepts>Logische-Operatoren.html</accepts>
+    </rule>
+    <rule id="18eb71c8">
+        <description>Created after removal of "Unary Operatoren" from .NET</description>
+        <accepts>Unary-Operatoren.html</accepts>
+    </rule>
+    <rule id="4ab37e67">
+        <description>Created after removal of "Zuweisungsoperatoren" from .NET</description>
+        <accepts>Zuweisungsoperatoren.html</accepts>
+    </rule>
+    <rule id="1e65559f">
+        <description>Created after removal of "Operator-Vorrang" from .NET</description>
+        <accepts>Operator-Vorrang.html</accepts>
+    </rule>
+    <rule id="317730c1">
+        <description>Created after removal of "Input/Output" from .NET</description>
+        <accepts>Input-Output.html</accepts>
+    </rule>
+    <rule id="1cbca27c">
+        <description>Created after removal of "Operatoren" from .NET</description>
+        <accepts>Operatoren.html</accepts>
+    </rule>
+    <rule id="1a5b848a">
+        <description>Created after removal of "Kommentare" from .NET</description>
+        <accepts>Kommentare.html</accepts>
+    </rule>
+    <rule id="189e897d">
+        <description>Created after removal of "Grundlagen" from .NET</description>
+        <accepts>Einfuehrung.html</accepts>
+    </rule>
+    <rule id="644e0f1c">
+        <description>Created after removal of "if...else" from .NET</description>
+        <accepts>if-else.html</accepts>
+    </rule>
+    <rule id="178132ae">
+        <description>Created after removal of "switch" from .NET</description>
+        <accepts>switch.html</accepts>
+    </rule>
+    <rule id="764c48a">
+        <description>Created after removal of "Ternary Operator" from .NET</description>
+        <accepts>Ternary-Operator.html</accepts>
+    </rule>
+    <rule id="6e252ae7">
+        <description>Created after removal of "for Loop" from .NET</description>
+        <accepts>for-Loop.html</accepts>
+    </rule>
+    <rule id="3bbc5025">
+        <description>Created after removal of "while Loop" from .NET</description>
+        <accepts>while-Loop.html</accepts>
+    </rule>
+    <rule id="e5b0655">
+        <description>Created after removal of "break" from .NET</description>
+        <accepts>break.html</accepts>
+    </rule>
+    <rule id="5aafc44b">
+        <description>Created after removal of "continue" from .NET</description>
+        <accepts>continue.html</accepts>
+    </rule>
+    <rule id="5d9d06b1">
+        <description>Created after removal of "Kontrollstukturen" from .NET</description>
+        <accepts>Kontrollstrukturen.html</accepts>
+    </rule>
+    <rule id="3fcc2e06">
+        <description>Created after removal of "Multidimensionale Arrays" from .NET</description>
+        <accepts>Multidimensionale-Arrays.html</accepts>
+    </rule>
+    <rule id="44e035b4">
+        <description>Created after removal of "foreach Loop" from .NET</description>
+        <accepts>foreach-Loop.html</accepts>
+    </rule>
+    <rule id="6dd956d2">
+        <description>Created after removal of "Klassen und Objekte" from .NET</description>
+        <accepts>Klassen-und-Objekte.html</accepts>
+    </rule>
+    <rule id="23d34995">
+        <description>Created after removal of "Method Overloading" from .NET</description>
+        <accepts>Method-Overloading.html</accepts>
+    </rule>
+    <rule id="cfcd44f">
+        <description>Created after removal of "Constructor" from .NET</description>
+        <accepts>Constructor.html</accepts>
+    </rule>
+    <rule id="7f9b69c1">
+        <description>Created after removal of "Methoden" from .NET</description>
+        <accepts>Methoden.html</accepts>
+    </rule>
+    <rule id="12aba9fe">
+        <description>Created after removal of "Grundlagen" from .NET</description>
+        <accepts>Grundlagen.html</accepts>
+    </rule>
+    <rule id="10bc5ac8">
+        <description>Created after removal of "Zugriffsmodifikatoren" from .NET</description>
+        <accepts>Zugriffsmodifikatoren.html</accepts>
+    </rule>
+    <rule id="70bb2630">
+        <description>Created after removal of "get und set" from .NET</description>
+        <accepts>get-und-set.html</accepts>
+    </rule>
+    <rule id="45fc7fc3">
+        <description>Created after removal of "Vererbung" from .NET</description>
+        <accepts>Vererbung.html</accepts>
+    </rule>
+    <rule id="4efeffa0">
+        <description>Created after removal of "Verkapselung" from .NET</description>
+        <accepts>Properties.html</accepts>
+    </rule>
+    <rule id="2828aace">
+        <description>Created after removal of "Polymorphismus" from .NET</description>
+        <accepts>Polymorphismus.html</accepts>
+    </rule>
+    <rule id="734bdc">
+        <description>Created after removal of "Interface" from .NET</description>
+        <accepts>Interface.html</accepts>
+    </rule>
+    <rule id="3551275d">
+        <description>Created after removal of "Abstraktion" from .NET</description>
+        <accepts>Abstrakte-Klassen-und-Methoden.html</accepts>
+    </rule>
+    <rule id="28678eef">
+        <description>Created after removal of "Konzepte" from .NET</description>
+        <accepts>Konzepte.html</accepts>
+    </rule>
+    <rule id="4b93a9ea">
+        <description>Created after removal of "this Keyword" from .NET</description>
+        <accepts>this-Keyword.html</accepts>
+    </rule>
+    <rule id="48eeaf03">
+        <description>Created after removal of "static Keyword" from .NET</description>
+        <accepts>static-Keyword.html</accepts>
+    </rule>
+    <rule id="433bd570">
+        <description>Created after removal of "Verschiedenes" from .NET</description>
+        <accepts>Verschiedenes.html</accepts>
+    </rule>
+    <rule id="38e57e76">
+        <description>Created after removal of "Typenkonversion" from .NET</description>
+        <accepts>Typenkonversion.html</accepts>
+    </rule>
+    <rule id="3390cf9f">
+        <description>Created after removal of "Strings" from .NET</description>
+        <accepts>Strings.html</accepts>
+    </rule>
+    <rule id="1e1555ce">
+        <description>Created after removal of "Scope" from .NET</description>
+        <accepts>Scope.html</accepts>
+    </rule>
+    <rule id="2b7e862a">
+        <description>Created after removal of "Files" from .NET</description>
+        <accepts>Files.html</accepts>
+    </rule>
+    <rule id="1d689c85">
+        <description>Created after removal of "try...catch" from .NET</description>
+        <accepts>try-catch.html</accepts>
+    </rule>
+    <rule id="15f6b487">
+        <description>Created after removal of "Math" from .NET</description>
+        <accepts>Math.html</accepts>
+    </rule>
+    <rule id="77f3ad99">
+        <description>Created after removal of "Verschiedenes" from .NET</description>
+        <accepts>Zusätzliches.html</accepts>
+    </rule>
+    <rule id="70b1cbda">
+        <description>Created after removal of "OOP" from .NET</description>
+        <accepts>OOP.html</accepts>
+    </rule>
+    <rule id="348233c9">
+        <description>Created after removal of "Arrays" from .NET</description>
+        <accepts>Arrays.html</accepts>
+    </rule>
+    <rule id="5c0e9de1">
+        <description>Created after removal of "Grundlagen" from .NET</description>
+        <accepts>Grundlagen-C#.html</accepts>
+    </rule>
+    <rule id="53e1c148">
+        <description>Created after removal of "Variablen" from .NET</description>
+        <accepts>Variablen.html</accepts>
+    </rule>
+    <rule id="7279d81">
+        <description>Created after removal of "Strings" from .NET</description>
+        <accepts>Strings.html</accepts>
+    </rule>
+    <rule id="48633a61">
+        <description>Created after removal of "Integers" from .NET</description>
+        <accepts>Integers.html</accepts>
+    </rule>
+    <rule id="662ebc4d">
+        <description>Created after removal of "Floats und Doubles" from .NET</description>
+        <accepts>Floats-und-Doubles.html</accepts>
+    </rule>
+    <rule id="2bf36497">
+        <description>Created after removal of "Boolean" from .NET</description>
+        <accepts>Boolean.html</accepts>
+    </rule>
+    <rule id="3c26374a">
+        <description>Created after removal of "DateTime" from .NET</description>
+        <accepts>DateTime.html</accepts>
+    </rule>
+    <rule id="2d3ea874">
+        <description>Created after removal of "SOLID" from .NET</description>
+        <accepts>SOLID.html</accepts>
+    </rule>
+    <rule id="2b01b2c3">
+        <description>Created after removal of "Principles" from .NET</description>
+        <accepts>Principles.html</accepts>
+    </rule>
+    <rule id="4967de6a">
+        <description>Created after removal of "REST API" from .NET</description>
+        <accepts>REST-API.html</accepts>
+    </rule>
+    <rule id="4fde64e7">
+        <description>Created after removal of "Minimal API" from .NET</description>
+        <accepts>Minimal-API.html</accepts>
+    </rule>
+    <rule id="503bedc3">
+        <description>Created after removal of "Domain Driven Design" from .NET</description>
+        <accepts>Domain-Driven-Design.html</accepts>
+    </rule>
+    <rule id="6eeaebbc">
+        <description>Created after removal of "Clean Architecture" from .NET</description>
+        <accepts>Clean-Architecture.html</accepts>
+    </rule>
+    <rule id="7d3d2bd5">
+        <description>Created after removal of "Vertical Slice Architecture" from .NET</description>
+        <accepts>Vertical-Slice-Architecture.html</accepts>
+    </rule>
+    <rule id="52d76fdf">
+        <description>Created after removal of "Testing" from .NET</description>
+        <accepts>Testing.html</accepts>
+    </rule>
+    <rule id="73307513">
+        <description>Created after removal of "ASP.NET Core" from .NET</description>
+        <accepts>ASP-NET-Core.html</accepts>
+    </rule>
+    <rule id="1e00a7be">
+        <description>Created after removal of "ORMS" from .NET</description>
+        <accepts>ORMS.html</accepts>
+    </rule>
+    <rule id="12974bd4">
+        <description>Created after removal of "FastEndpoints" from .NET</description>
+        <accepts>FastEndpoints.html</accepts>
+    </rule>
+    <rule id="63ba386d">
+        <description>Created after removal of "Service" from .NET</description>
+        <accepts>Service.html</accepts>
+    </rule>
+</rules>
