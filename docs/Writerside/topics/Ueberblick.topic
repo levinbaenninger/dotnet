@@ -23,23 +23,23 @@
 
         <!--    Add up to 2 topics that you want to promote. Use the "type" attribute to select an icon.    -->
         <spotlight>
-            <a href="C#.md" type="development">C#</a>
-            <a href="REST-API.md" type="cross-platform">REST API</a>
+            <a href="CSharp.md" type="development">C#</a>
+            <a href="REST.md" type="cross-platform">REST API</a>
         </spotlight>
 
         <!--    Add several topics that are most important for this section.    -->
         <primary>
             <title>C#</title>
-            <a href="">Grundlagen</a>
-            <a href="">Kontrollstrukturen</a>
-            <a href="">Arrays</a>
-            <a href="">Objektorientierte Programmierung</a>
+            <a href="Programm-erstellen.md"/>
+            <a href="Variablen.md"/>
+            <a href="if-Statements.md"/>
+            <a href="for-Loops.md"/>
         </primary>
 
         <!--    Add several topics that are less important or are relevant only for advanced/experienced users.    -->
         <secondary>
             <title>APIs, Best-Practices und Testing</title>
-            <a href="REST-API.md">REST API</a>
+            <a href="REST.md">REST API</a>
             <a href="Minimal-API.md">Minimal API</a>
             <a href="Domain-Driven-Design.md">Domain Driven Design (DDD)</a>
             <a href="Clean-Architecture.md">Clean Architecture</a>

@@ -1,3 +1,2 @@
 # Vertical Slice Architecture
 
-Start typing here...

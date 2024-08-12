@@ -8,7 +8,7 @@
     <toc-element topic="Ueberblick.topic"/>
     <toc-element topic="Visual-Studio.md"/>
     <toc-element topic="NET-CLI.md"/>
-    <toc-element topic="C#.md">
+    <toc-element topic="CSharp.md">
         <toc-element toc-title="Grundlagen">
             <toc-element topic="Programm-erstellen.md"/>
             <toc-element topic="Struktur-eines-Programms.md"/>
