@@ -4,6 +4,9 @@
 
     <variables>
         <primary-color>iris</primary-color>
+        <algolia-id>JILDMOKA6Q</algolia-id>
+        <algolia-index>prod_.NET</algolia-index>
+        <algolia-api-key>1ca8e32e34d6d3b2369e347ddafeb69c</algolia-api-key>
     </variables>
     <build-profile instance="net">
         <variables>
